@@ -6,3 +6,7 @@ This a smooth fully responsive landing page built with React.js and Tailwind CSS
 The app has a stunning opening section and you can check out business stats, reusable feature sections with call to action buttons, testimonials and much more.
 
 This was a Figma design created by: [One Week Wonders](https://www.oneweekwonders.com/)
+
+### Check it out / Live website
+The app has been deployed on [Netlify](https://depalma-bank.netlify.app/)!
+Check it out now!
